@@ -1,1 +1,1 @@
-"# learning-spring-boot" 
+Code repository of the Udemy course _Spring Boot For Software Engineers_. 
